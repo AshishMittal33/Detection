@@ -7,7 +7,7 @@ This code will detect objects in the input image and draw bounding boxes around 
 
 3. Run detection.py
 
-4. Replace "inputs\.jpg" with the path to the image you want to perform object detection on.
+4. Replace "inputs\__.jpg" with the path to the image you want to perform object detection on.
 
 Result
 
