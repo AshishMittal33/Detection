@@ -5,5 +5,7 @@ This code will detect objects in the input image and draw bounding boxes around 
 
 2. (https://pjreddie.com/darknet/yolo/) download the YOLOv3 weight file and place in same directory of code.
 
-3. Replace "inputs\.jpg" with the path to the image you want to perform object detection on.
+3. Run detection.py
+
+4. Replace "inputs\.jpg" with the path to the image you want to perform object detection on.
 
